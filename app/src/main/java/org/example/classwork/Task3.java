@@ -1,4 +1,4 @@
-package org.example;
+package org.example.classwork;
 
 public class Task3 {
     public static void main(String[] args) {
